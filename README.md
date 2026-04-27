@@ -1,6 +1,8 @@
 [![AGP](https://img.shields.io/badge/AGP-9.x-blue?style=flat)](https://developer.android.com/studio/releases/gradle-plugin)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2-blueviolet?style=flat)](https://kotlinlang.org)
 
+[Click here to download the APK](https://github.com/CharlesMoreira1/DocVault/releases/tag/1.0)
+
 # DocVault
 
 DocVault is a secure document manager for Android. The idea is simple... a place to store sensitive documents... images and PDFs, without worrying about them sitting unprotected in your gallery or file system. Everything is encrypted at rest, biometric authentication guards access, and the app blocks screenshots to prevent accidental exposure.
