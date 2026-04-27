@@ -1,7 +1,5 @@
 [![AGP](https://img.shields.io/badge/AGP-9.x-blue?style=flat)](https://developer.android.com/studio/releases/gradle-plugin)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2-blueviolet?style=flat)](https://kotlinlang.org)
-[![API](https://img.shields.io/badge/API-28%2B-brightgreen?style=flat)](https://android-arsenal.com/api?level=28)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat)](LICENSE)
 
 # DocVault
 
