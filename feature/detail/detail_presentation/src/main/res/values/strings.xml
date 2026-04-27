@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="document_default_title">Documento</string>
+    <string name="nav_back_description">Volver</string>
+    <string name="error_opening_document">Error al abrir documento</string>
+    <string name="pdf_page_description">Página %d</string>
+</resources>

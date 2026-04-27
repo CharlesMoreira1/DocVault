@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home -->
+    <string name="home_empty_title">Ningún documento</string>
+    <string name="home_empty_subtitle">Toque + para agregar</string>
+
+    <string name="filter_all">Todos</string>
+    <string name="filter_images">Imágenes</string>
+    <string name="filter_pdfs">PDFs</string>
+
+    <string name="fab_camera">Cámara</string>
+    <string name="fab_gallery">Galería</string>
+    <string name="fab_close_description">Cerrar</string>
+    <string name="fab_add_description">Agregar documento</string>
+
+    <string name="card_delete_description">Eliminar documento</string>
+
+    <string name="permission_camera_denied">Permiso de cámara denegado.</string>
+    <string name="permission_camera_permanently_denied">Permiso denegado permanentemente. Habilítelo en los ajustes.</string>
+    <string name="action_open">Abrir</string>
+</resources>

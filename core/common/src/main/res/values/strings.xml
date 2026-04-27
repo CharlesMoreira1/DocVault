@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocVault</string>
+
+    <!-- Biometric -->
+    <string name="biometric_not_available">Biometría no disponible. Configúrela en los ajustes del dispositivo.</string>
+    <string name="biometric_title">Verificación necesaria</string>
+    <string name="biometric_subtitle">Use su biometría para acceder al documento</string>
+    <string name="action_cancel">Cancelar</string>
+
+    <!-- Watermark -->
+    <string name="watermark_location_unavailable">Ubicación no disponible</string>
+
+    <!-- Document Type -->
+    <string name="document_type_image">Imagen</string>
+    <string name="document_type_pdf">PDF</string>
+
+    <!-- Errors -->
+    <string name="error_saving_document">Error al guardar documento</string>
+    <string name="error_removing_document">Error al eliminar documento</string>
+    <string name="error_document_not_found">Documento no encontrado</string>
+    <string name="error_opening_image">Error al abrir imagen</string>
+    <string name="error_opening_pdf">Error al abrir PDF</string>
+</resources>
